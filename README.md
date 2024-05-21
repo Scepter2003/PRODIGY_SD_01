@@ -1,2 +1,2 @@
 # PRODIGY_SD_01
-<img src="T_initial" alt="initial image"></img>
+<img src="T_initial.png" alt="initial image"></img>
