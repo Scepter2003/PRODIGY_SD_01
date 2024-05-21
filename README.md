@@ -1,5 +1,24 @@
-# PRODIGY_SD_01
-<img src="T_initial.png" alt="initial image" width="100" height="100"></img>
-<img src="T_select.png" alt="initial image"></img>
-<img src="T_convert.png" alt="initial image"></img>
-<video src="T_vid.mp4" alt="initial image" controls></img>
+# Temperature Conversion Program
+
+## Hello Users!!!
+
+Welcome to the temperature conversion task given by Prodigy Infotech. This task is completed using Python programming language. Below are the images and a video demonstrating the deployed code.
+
+### Table of Contents
+- [Initial Page](#initial-page)
+- [Entering Value](#entering-value)
+- [Results](#results)
+- [Video](#video)
+
+### Initial Page
+<img src="T_initial.png" alt="Initial page" width="300" height="300" id="initial-page">
+
+### Entering Value
+<img src="T_select.png" alt="Entering value" width="300" height="300" id="entering-value">
+
+### Results
+<img src="T_convert.png" alt="Conversion results" width="300" height="300" id="results">
+
+### Video
+<video src="T_vid.mp4" alt="Video demonstration" width="300" height="300" id="video" controls></video>
+
