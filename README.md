@@ -20,5 +20,6 @@ Welcome to the temperature conversion task given by Prodigy Infotech. This task 
 <img src="T_convert.png" alt="Conversion results" width="300" height="300" id="results">
 
 ### Video
-<video src="T_vid.mp4" alt="Video demonstration" width="300" height="300" id="video" controls></video>
+<video width="300" height="300" controls>
+  <source src="T_vid.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
